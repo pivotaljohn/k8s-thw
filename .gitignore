@@ -1,0 +1,5 @@
+*.pem
+*.kubeconfig
+*.json
+*.csr
+encryption-config.yaml
